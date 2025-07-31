@@ -10,7 +10,7 @@ JM411540'''
 '''
 
 # 单独下载章节
-jm_photos = str_to_list( '''
+jm_photos = str_to_list('''
 JM411540
 JM198296
 JM669533
